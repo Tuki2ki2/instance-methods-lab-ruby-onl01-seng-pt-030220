@@ -6,6 +6,7 @@ end
 def walk
   puts "The Person is walking"
 end
+end
 
 human = Person.new
 human.talk
