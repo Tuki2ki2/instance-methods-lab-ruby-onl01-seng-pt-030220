@@ -10,4 +10,4 @@ end
 end
 
 snoopy = Dog.new
-snoopy.bark  
+snoopy.bark
